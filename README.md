@@ -1,7 +1,7 @@
 NOTE
 ====
 
-[Andrwjkerr](https://github.com/andrewjkerr/security-cheatsheets) forked repository for 
+[andrewjkerr](https://github.com/andrewjkerr/security-cheatsheets) forked repository for 
 [www.sniferl4bs.com](www.sniferl4bs.com)
 
 The fork was done because the original author has not updated about 2 years ago.
@@ -30,7 +30,18 @@ Jason Soto aka Jsitech [TWITTER](https://twitter.com/Jsitech) [BLOG](http://www.
 
 GUTEM -  [GITHUB](https://github.com/Gutem)
 
+Original Contributors
+===================== 
+
+Andrew Kerr (andrewjkerr)
+
+Angela Evans (angelaevans)
+
+Alex Bujduveanu (alexbujduveanu)
+
+Michael Christakos (truckiewow)
 Resources
 =========
 
 Metasploit Cheat Sheet [Sans Institute](http://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
+Volatility Cheat Sheet [Sans Institute] (https://digital-forensics.sans.org/media/memory-forensics-cheat-sheet.pdf)
